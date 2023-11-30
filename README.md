@@ -19,7 +19,7 @@
 
 ## Deskripsi
 
-Web based application untuk membantu para ibu rumah tangga menemukan panduan memasak masakan nusantara.
+Website Pencarian Resep Makanan Indonesia.
 
 #### Dikembangkan dengan Bahasa Pemrograman
 
