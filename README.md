@@ -93,7 +93,8 @@ Website Pencarian Resep Makanan Indonesia.
 
 #### 1. Dokumentasi Kode
 
-<p><img align="right" alt="gif" src="https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/%E2%97%8F-formtransaksi.php-basdatfinal-Visual-Studio-Code-2021-12-21-16-12-30.gif" /></p>
+![ezgif com-optimize](https://github.com/BIMASKUY/Resep_Emak/assets/113542041/b7b28d43-1f44-4d19-a2d2-2435054d798a)
+
 
 #### 2. Dokumentasi SQL
 
