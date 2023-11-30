@@ -96,6 +96,8 @@ Web based application untuk membantu para ibu rumah tangga menemukan panduan mem
 
 <p><img align="right" alt="gif" src="https://github.com/AhmadBintangA/Project-Basdat-siBandar/blob/main/%E2%97%8F-formtransaksi.php-basdatfinal-Visual-Studio-Code-2021-12-21-16-12-30.gif" /></p>
 
+<br></br>
+
 #### 2. Dokumentasi SQL
 
 <img width="770" alt="image" src="https://github.com/BIMASKUY/Resep_Emak/assets/113542041/115090d9-9bc7-4a06-a0cc-8ad44d94edc3">
