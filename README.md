@@ -1,4 +1,5 @@
-<img width="1280" alt="image" src="https://github.com/BIMASKUY/Resep_Emak/assets/113542041/aded1e51-85e1-400c-9077-498d9278eee2"># Proyek Basis Data Si Bandar
+# Proyek Basis Data `Resep Emak`
+
 <img width="587" alt="image" src="https://github.com/BIMASKUY/Resep_Emak/assets/113542041/1b26e335-d237-4936-9698-7371e1ee30ce">
 <br></br>
 
