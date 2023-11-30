@@ -1,0 +1,180 @@
+body {
+    background-color: #00469B !important;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 480px;
+    height: 140px;
+    background: #FFB901;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-left: 5px #2A2829 solid;
+    border-top: 5px #2A2829 solid;
+    border-right: 5px #2A2829 solid;
+    flex-direction: column;
+    margin-top: 300px;
+    overflow: hidden;
+    animation: animasicontainer1 2s ease 1 alternate forwards;
+    animation-delay: 0.05s;
+}
+
+@keyframes animasicontainer1 {
+    from {
+        margin-top: 300px;
+    }
+    to {
+        margin-top: 60px;
+    }
+}
+
+@-webkit-keyframes animasicontainer1 {
+    from {
+        margin-top: 300px;
+    }
+    to {
+        margin-top: 60px;
+    }
+}
+
+.fotoprofile{
+    display: flex;
+}
+
+.logo-image img {
+    width: 100px;
+    height: 100px;
+    border-radius: 9999px;
+}
+
+.container2 {
+    width: 480px;
+    height: 5px;
+    position: relative;
+    background: #FFFFEA;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-left: 5px #2A2829 solid;
+    border-right: 5px #2A2829 solid;
+    border-bottom: 5px #2A2829 solid;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    animation: animasicontainer2 2s ease 1 alternate forwards;
+    animation-delay: 0.5s;
+}
+
+@keyframes animasicontainer2 {
+    from {
+        width: 480px;
+        height: 5px;
+    }
+    to {
+        width: 480px;
+        height: 510px;
+    }
+}
+
+@-webkit-keyframes animasicontainer2 {
+    from {
+        width: 480px;
+        height: 5px;
+    }
+    to{
+        width: 480px;
+        height: 510px;
+    }
+}
+
+.container2 form{
+    width: 100%;
+    padding-bottom: 60px; padding-right: 60px; padding-left: 40px; padding-top: 30px;
+}
+
+.form-control{
+    font-size: 14px;
+    background-color: #E4D9CA;
+    border-color: #2A2829;
+    border-width: 1px;
+    padding: 5px;
+    border-radius: 40px;
+    transform: translateY(5px);
+}
+
+.form-control:focus {
+    background-color: #FFFFEA;
+}
+
+.button-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.button1{
+    width: 180px;
+    background: #7B393C !important;
+    border-color: #2A2829;
+    border-width: 1px;
+    color: #FFFFEA;
+    transform: translateY(8px);
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 40px !important;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    transition-duration: 0.7s;
+}
+
+.button1:hover{
+    background: #2A2829!important;
+  }
+
+.button2 {
+    width: 102px;
+    background: #FFFFEA !important;
+    border-color: #2A2829;
+    border-width: 1px;
+    color: #2A2829;
+    font-size: 24px; 
+    font-weight: 700;
+    transform: translateY(8px);
+    font-size: 13px;
+    border-radius: 40px !important;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    transition-duration: 0.7s;
+}
+
+.akun{
+    color: #2A2829;
+    text-decoration: none;
+}
+
+.button2:hover .akun {
+    color: #FFFFEA;
+    text-decoration: none;
+}
+
+.button2:hover{
+    background: #2A2829 !important;
+}

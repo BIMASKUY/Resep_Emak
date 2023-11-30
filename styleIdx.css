@@ -1,0 +1,468 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  background-color: #00469b;
+}
+
+.HOMEPAGE {
+  background-color: #00469b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.HOMEPAGE .overlap-wrapper {
+  background-color: #00469b;
+  width: 1440px;
+  height: 2009px;
+}
+
+.HOMEPAGE .overlap {
+  position: relative;
+  height: 1882px;
+  top: 127px;
+}
+
+.HOMEPAGE .desktop {
+  position: absolute;
+  width: 1261px;
+  height: 1702px;
+  top: 0;
+  left: 90px;
+  background-color: #FFFFEA;
+  border-radius: 50px 50px 50px 50px;
+  overflow: hidden;
+  border: 5px solid;
+  border-color: #2a2829;
+}
+
+.HOMEPAGE .overlap-group {
+  position: absolute;
+  width: 100%;
+  height: 90%;
+  top: 40px;
+  left: 0;
+  background-color: #feffea;
+}
+
+.HOMEPAGE .div {
+  position: absolute;
+  width: 992px;
+  height: 446px;
+  top: 59px;
+  left: 161px;
+}
+
+.HOMEPAGE .overlap-2 {
+  position: absolute;
+  width: 992px;
+  height: 424px;
+  top: 0;
+  left: 0;
+}
+
+.HOMEPAGE .text-wrapper {
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  left: 87px;
+  -webkit-text-stroke: 3px #2a2829;
+  font-family: "Dokdo";
+  font-weight: 400;
+  color: #0c8657;
+  font-size: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .p {
+  position: absolute;
+  margin-top: 10%;
+  top: 277px;
+  left: 137px;
+  font-family: "Plus Jakarta Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #2a2829;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .group {
+  position: absolute;
+  width: 170px;
+  height: 158px;
+  top: 0;
+  left: 0;
+  
+}
+
+.HOMEPAGE .img {
+  position: absolute;
+  width: 176px;
+  height: 209px;
+  top: 215px;
+  left: 816px;
+}
+
+.HOMEPAGE .group-2 {
+  position: absolute;
+  width: 112px;
+  height: 100px;
+  top: 52px;
+  left: 711px;
+  background-image:-moz-repeating-linear-gradient();
+}
+
+.HOMEPAGE .group-3 {
+  position: absolute;
+  width: 140px;
+  height: 110px;
+  top: 336px;
+  left: 17px;
+}
+
+.HOMEPAGE .search {
+  display: inline-flex;
+  left: 438px;
+  background-color: #7b393c;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px 19px;
+  position: absolute;
+  border-radius: 50px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #2a2829;
+  margin-top: 40%;
+}
+
+.HOMEPAGE .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffea;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .overlap-3 {
+  position: absolute;
+  width: 981px;
+  height: 484px;
+  top: 865px;
+  left: 140px;
+}
+
+.HOMEPAGE .download {
+  position: absolute;
+  width: 981px;
+  height: 408px;
+  top: 0;
+  left: 0;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+
+.HOMEPAGE .create-recipes-wrapper {
+  display: flex;
+  width: 322px;
+  height: 152px;
+  top: 332px;
+  left: 137px;
+  background-color: #ffffea;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px 19px;
+  position: absolute;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #2a2829;
+}
+
+.HOMEPAGE .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #2a2829;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .MY-recipes-wrapper {
+  display: flex;
+  width: 322px;
+  height: 152px;
+  top: 332px;
+  left: 522px;
+  background-color: #ffffea;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px 19px;
+  position: absolute;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #2a2829;
+}
+
+.HOMEPAGE .overlap-4 {
+  position: absolute;
+  width: 1258px;
+  height: 100%;
+  top: 1458px;
+  left: 3px;
+  background-color: #d9d9d9;
+}
+
+.HOMEPAGE .rectangle {
+  position: absolute;
+  width: 222px;
+  height: 69px;
+  top: 95px;
+  left: 24px;
+  background-color: #d9d9d9;
+}
+
+.HOMEPAGE .text-wrapper-4 {
+  position: absolute;
+  top: 144px;
+  left: 36px;
+  font-family: "Plus Jakarta Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #efefef;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .overlap-5 {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  width: 1261px;
+  height: 112px;
+  top: 0;
+  left: 0;
+  background-color: #ffb901;
+  border: 5px solid;
+  border-color: #ffb901;
+  border-radius: 50px 50px 0px 0px;
+  margin-left: -4px;
+}
+
+.HOMEPAGE .text-wrapper-5 {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  color: #0C8657;
+  text-shadow: -2px -2px 0 #2A2829, 2px -2px 0 #2A2829, -2px 2px 0 #2A2829, 2px 2px 0 #2A2829;
+  font-size: 54.86px;
+  font-family: Dokdo;
+  font-weight: 400;
+}
+
+.HOMEPAGE .text-wrapper-6 {
+  left: 385px;
+  position: absolute;
+  top: 40px;
+  font-family: Plus Jakarta Sans, Helvetica;
+  font-weight: 400;
+  color: #2a2829;
+  font-size: 22.36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .text-wrapper-7 {
+  position: absolute;
+  top: 40px;
+  left: 486px;
+  font-family:Plus Jakarta Sans, Helvetica;
+  font-weight: 400;
+  color: #2a2829;
+  font-size: 22.36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .text-wrapper-8 {
+  left: 588px;
+  position: absolute;
+  top: 40px;
+  font-family: Plus Jakarta Sans, Helvetica;
+  font-weight: 400;
+  color: #2a2829;
+  font-size: 22.36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.HOMEPAGE .div-wrapper {
+  display: flex;
+  width: 102px;
+  height: 36px;
+  top: 35px;
+  left: 906px;
+  background-color: #ffffea;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px 19px;
+  position: absolute;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #2a2829;
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+.HOMEPAGE .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: black;
+  font-size: 22.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration:solid;
+}
+
+.HOMEPAGE .search-2 {
+  display: flex;
+  width: 120px;
+  height: 36px;
+  top: 35px;
+  left: 1053px;
+  background-color: #ffffea;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px 19px;
+  position: absolute;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #2a2829;
+}
+
+.HOMEPAGE .vector {
+  position: absolute;
+  width: 1440px;
+  height: 6px;
+  top: 894px;
+  left: 0;
+  object-fit: cover;
+}
+
+.akun{
+  color: black;
+  text-decoration: none;
+}
+.akun-1{
+  color: #feffea;
+  text-decoration: none;
+}
+.HOMEPAGE .rectangle-2 {
+  position: absolute;
+  width: 100%;
+  height: 329px;
+  bottom: 0;
+  background-color: #ffb901;
+  text-align: center;
+  padding-top: 20px;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  font-family: poppins;
+  }
+
+.HOMEPAGE .footer {
+  color: black;
+  text-decoration: none;
+  text-align: left;
+  padding-left: 15%;
+  flex-grow: 1;
+}
+
+.HOMEPAGE .footer a {
+  color:black;
+  text-decoration: none;
+}
+
+.HOMEPAGE .form-saran {
+  border-radius: 20px;
+  color: black;
+  border-width: 1px;
+  margin-top: 10px; 
+  /* margin-left: 30%; */
+  padding: 10px; 
+  margin-top: 10px; 
+  width: 200px; 
+  height: 10px;
+  align-items: center;
+}
+
+.HOMEPAGE .input-saran {
+border-radius: 20px;
+color: black;
+border-width: 1px;
+margin-top: 10px; 
+/* margin-left: 30%; */
+padding: 10px; 
+margin-top: 10px; 
+width: 200px; 
+height: 10px;
+align-items: center;
+background-color: #E4D9CA;
+border-color: #2A2829;
+}
+
+.HOMEPAGE .input-saran:focus {
+  background-color: #FFFFEA;
+}
+
+.HOMEPAGE .desk{
+width: 70%; 
+margin-right: 25%;
+}
+.HOMEPAGE .button{
+width: 90px;
+border-radius: 20px;
+height: 30px;
+margin-top: 10px;
+background-color: #FFFFEA;
+border: width 1px;;
+cursor: pointer;
+}
+
+.button:hover .akun {
+  color: #FFFFEA;
+  text-decoration: none;
+}
+
+.button:hover{
+background: #2A2829 !important;
+color: #FFFFEA;
+}

@@ -1,0 +1,301 @@
+body {
+    background-color: #00469B !important;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container{
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    width: 1164px;
+    height: 220px;
+    background: #FFB901;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-left: 5px #2A2829 solid;
+    border-top: 5px #2A2829 solid;
+    border-right: 5px #2A2829 solid;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.logo-text {
+    display: flex;
+    color: #0C8657;
+    text-shadow: -2px -2px 0 #2A2829, 2px -2px 0 #2A2829, -2px 2px 0 #2A2829, 2px 2px 0 #2A2829;
+    font-size: 54.86px;
+    font-family: Dokdo;
+    font-weight: 400;
+}
+
+.fotoprofile{
+    display: flex;
+    margin-right: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-image img {
+    width: 62.30px;
+    height: 62.30px;
+    border-radius: 9999px;
+}
+
+.menu {
+    display: flex;
+    margin-left: 20px;
+}
+
+.menu-item {
+    display: flex;
+    color: #2A2829;
+    font-size: 22.36px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.menu-item a{
+    text-decoration: none;
+    color: #2A2829;
+}
+
+.menu-item a:hover{
+    font-weight: 700;
+}
+
+.navbar{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.hero {
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+}
+
+@keyframes animasicontainer1 {
+    from {
+        margin-left: 500px;
+    }
+    to {
+        margin-left: 20px;
+    }
+}
+
+@-webkit-keyframes animasicontainer1 {
+    from {
+        margin-top: 10px;
+    }
+    to {
+        margin-top: 0px;
+    }
+}
+
+@keyframes animasicontainer2 {
+    from {
+        margin-left: 100px;
+    }
+    to {
+        margin-left: 20px;
+    }
+}
+
+@-webkit-keyframes animasicontainer2 {
+    from {
+        margin-top: 10px;
+    }
+    to {
+        margin-top: 0px;
+    }
+}
+
+@keyframes animasicontainer3 {
+    from {
+        margin-left: 100px;
+    }
+    to {
+        margin-left: 20px;
+    }
+}
+
+@-webkit-keyframes animasicontainer3 {
+    from {
+        margin-top: 10px;
+    }
+    to {
+        margin-top: 0px;
+    }
+}
+
+
+.hero span {
+    font-weight: bolder;
+    font-size: 60px;
+    font-family: Poppins;
+    font-weight: 700;
+}
+
+.nohighlight1{
+    color: #FFFFEA;
+    text-shadow: -0.75px -0.75px 0 #FFFFEA, 0.75px -0.75px 0 #FFFFEA, -0.75px 0.75px 0 #FFFFEA, 0.75px 0.75px 0 #FFFFEA;
+    animation: animasicontainer1 2s ease 1 alternate forwards;
+    animation-delay: 0s;
+    margin-left: 500px;
+}
+
+.nohighlight2{
+    color: #FFFFEA;
+    text-shadow: -0.75px -0.75px 0 #FFFFEA, 0.75px -0.75px 0 #FFFFEA, -0.75px 0.75px 0 #FFFFEA, 0.75px 0.75px 0 #FFFFEA;
+    animation: animasicontainer2 2s ease 1 alternate forwards;
+    animation-delay: 1s;
+    margin-left: 100px;
+}
+
+.highlight{
+    color: #0C8657;
+    text-shadow: -1px -1px 0 #0C8657, 1px -1px 0 #0C8657, -1px 1px 0 #0C8657, 1px 1px 0 #0C8657;
+    animation: animasicontainer3 2s ease 1 alternate forwards;
+    overflow: hidden;
+    animation-delay: 1.5s;
+    margin-left: 100px;
+}
+
+.container2 {
+    width: 1164px;
+    min-height: 450px;
+    position: relative;
+    background: #FFFFEA;
+    border-left: 5px #2A2829 solid;
+    border-right: 5px #2A2829 solid;
+    border-bottom: 5px #2A2829 solid;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container3{
+    display: flex;
+    color: #2A2829;
+    font-weight: 500;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    width: 1044px;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.searchbar{
+    font-size: 18px;
+    background-color: #E4D9CA;
+    border-color: #2A2829;
+    border-width: 1px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 40px;
+}
+
+.button1{
+    margin-left: 20px;
+    font-size: 18px;
+    background-color: #FFFFEA;
+    border-color: #2A2829;
+    border-width: 1px;
+    border-radius: 40px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.button1:hover{
+    background: #2A2829!important;
+    color: #FFFFEA;
+}
+
+.createrecipes {
+    text-decoration: none;
+    color: #FFFFEA;
+}
+
+.createrecipes:hover{
+    color: #FFFFEA;
+}
+
+.container4{
+    background: #FFFFEA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1044px;
+    margin-top: 15px;
+    padding: 5px;
+    align-items: center;
+}
+
+.container4 a{
+    text-decoration: none;
+}
+
+.recipes{
+    color: #2A2829;
+    font-weight: 500;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    align-items: center;
+    height: 220px;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    background-color: #FFFFEA;
+    border: 1px #2A2829 solid;
+    border-radius: 35px;
+    transition-duration: 0.5s;
+}
+
+.recipes:hover{
+    transform: translate(-10px, -10px);
+    box-shadow: 7px 7px 0px #7B393C;
+}
+
+.foodname{
+    font-size: 20px;
+}
+
+.recipespic{
+    display: flex;
+    height: 110px;
+    width: 180px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #FFFFEA;
+    border: 1px #2A2829 solid;
+    border-radius: 30px;
+}
+
+.recipespic img {
+    max-width: 100%; /* Atur lebar maksimum gambar sesuai dengan lebar container */
+    object-fit: cover;
+    border-radius: 29px;
+}
