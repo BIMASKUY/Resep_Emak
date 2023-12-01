@@ -32,12 +32,12 @@ Website Pencarian Resep Makanan Indonesia.
 
 ## Anggota Kelompok
 
-| Nama                        | NIM           | Username Github                   |
-| :--------------------       | :------------ | :-------------------------------- |
-| Bima Rizqy Ramadhan         | G6401221082   | https://github.com/BIMASKUY       |
-| Aszriel Teddy Muhammad      | G6401221110   |    |
-| Dwiamalina Qurratuain Najla | G6401221040   |    |
-| Qurrotul ‘Aini              | G6401221070   |    |
+| Nama                        | NIM           |
+| :--------------------       | :------------ | 
+| Bima Rizqy Ramadhan         | G6401221082   |
+| Aszriel Teddy Muhammad      | G6401221110   |   
+| Dwiamalina Qurratuain Najla | G6401221040   |   
+| Qurrotul ‘Aini              | G6401221070   | 
 
 ---
 
