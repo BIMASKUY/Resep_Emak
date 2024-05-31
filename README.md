@@ -103,4 +103,4 @@ Website Pencarian Resep Makanan Indonesia.
 ---
 
 ## Link Laporan
-[![Go To](https://github.com/BIMASKUY/Resep_Emak/assets/113542041/3950c946-a3ad-4fd8-8931-4099f9c180b3)](https://docs.google.com/document/d/1lPFLhD2SKVMhlRTeud0-L_YUBFxo7DURe5aFbQ--1Yw/edit)
+[![Go To](https://github.com/BIMASKUY/Resep_Emak/assets/113542041/3950c946-a3ad-4fd8-8931-4099f9c180b3)](https://docs.google.com/document/d/1lPFLhD2SKVMhlRTeud0-L_YUBFxo7DURe5aFbQ--1Yw/edit?usp=sharing)
